@@ -1,0 +1,94 @@
+{
+  "name": "DON BASIL PETER",
+  "title": "Software Engineer",
+  "intro": "Talented Software Developer equipped with great coding and debugging abilities. Accomplishes project goals with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.",
+  "phone": "+1 226-886-5315",
+  "mail": "donbasilpeter@gmail.com",
+   "education": [
+    {
+      "institution": "Lambton College",
+      "location": "Sarnia, ON",
+      "course": "Full Stack Software Development",
+      "start_date": "September 2023",
+      "end_date": "Present"
+    },
+    {
+      "institution": "St. Joseph's College of Engineering",
+      "location": "Palai, Kerala",
+      "course": "B.Tech, computer science & Engineering",
+      "start_date": "July 2017",
+      "end_date": "July 2021"
+    }
+  ],
+  "skills": ["JavaScript","TypeScript","React","NestJS","Node.js","Angular","Python","Flask","FastAPI","PostgreSQL","MongoDB","GraphQL","Docker","Git","Jest","LangChain","OpenAI","LLM","HTML","CSS","Redux.js","SwaggerAPI","Prompt Engineering"],
+  "projects": [
+    {
+      "name": "Resume Optimizer",
+      "start_date": "April 2024",
+      "end_date": "Present",
+      "position": "Software Developer",
+      "desc": "The resume optimizer tool is designed to enhance the effectiveness of a resume by aligning it with specific job descriptions. By analyzing the keywords and requirements of a job posting, the tool will modify and improve the resume to ensure that it highlights relevant work experience, skills, and qualifications that match the job requirements. ",
+      "org":"Personal Project"
+    },
+    {
+      "name": "Template Generator",
+      "start_date": "March 2024",
+      "end_date": "Present",
+      "position": "Software Developer",
+      "desc": "Introducing Template Generator, an LLM based web application. With Template Generator, users can effortlessly create React components by simply providing an input prompt. The application analyzes the prompt and generates high-quality React component templates tailored to your specifications. Once generated, users can seamlessly download the templates and integrate them into their projects, saving time and streamlining the development process.",
+      "org":"Personal Project"
+    },
+    {
+      "name": "CaseFlow",
+      "start_date": "June 2022",
+      "end_date": "July 2023",
+      "position": "Software Engineer",
+      "desc": "Caseflow is a case management system that helps organizations to efficiently track and manage different case scenarios. It provides a centralized platform for storing case information, managing workflows, assigning tasks, and tracking progress.",
+      "org":"AOT Technologies"
+    },
+    {
+      "name": "Formsflow.ai",
+      "start_date": "April 2022",
+      "end_date": "May 2022",
+      "position": "Software Engineer",
+      "desc": "Formsflow is a user-friendly platform that allows users to easily create customized forms and workflows using a convenient drag and drop form builder. By leveraging the powerful Camunda platform, users can streamline their processes and automate workflows quickly and efficiently",
+      "org":"AOT Technologies"
+    },
+        {
+      "name": "MODUURN",
+      "start_date": "October 2021",
+      "end_date": "March 2022",
+      "position": "Software Engineer",
+      "desc": "Moduurn Mobility Inc. (MMI) provides sophisticated cloud-based mobile ordering and menu management system for food services, grocery and retail environments. Businesses utilize our turn-key, proprietary solutions to rapidly deploy high-quality mobile applications for iOS and Android platforms, under your companies valued brand.",
+      "org":"AOT Technologies"
+    },
+    {
+      "name": "Stock Market Portfolio Tool",
+      "start_date": "February 2021",
+      "end_date": "May 2021",
+      "position": "Developer",
+      "desc": "This web application is designed for analyzing the Indian stock market, providing tailored insights on optimal investment opportunities. Users can adjust risk-reward parameters and customize their portfolios accordingly",
+      "org":"Personal Project"
+    }
+  ],
+  "experience": [
+    {
+      "name": "AOT Technologies",
+      "start_date": "October 2021",
+      "end_date": "July 2023",
+      "location": "Trivandrum, Kerala",
+      "position": "Software Engineer",
+      "skills": [
+        "Successfully implemented a modern tech stack featuring NestJS for backend development, React for frontend design, PostgreSQL for database management, and Flask for customized API development.",
+        "Utilized GraphQL to optimize data retrieval and manipulation, enhancing application responsiveness and performance.",
+        "Integrated APIs with external services such as S3, SharePoint, and Alfresco, facilitating seamless file management.",
+        "Leveraged MongoDB for efficient data storage and retrieval, guaranteeing scalability and effective handling of large datasets.",
+        "Designed a user-friendly interface utilizing Figma for an enhanced user experience, ensuring intuitive navigation and interaction.",
+        "Proactively addressed issues through troubleshooting and debugging, ensuring stability and reliability of both frontend and backend components.",
+        "Collaborated effectively with DevOps teams to streamline development and deployment processes.",
+        "Provided mentorship to a junior developer, offering guidance and support in their professional development journey and promoting a culture of collaboration and knowledge-sharing within the team."
+       ]
+    }
+  ],
+  "reference": "Don C Varghese, Sr. Software Engineer, AOT Technologies, Victoria, British Columbia"
+}

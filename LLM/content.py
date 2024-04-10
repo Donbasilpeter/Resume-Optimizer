@@ -10,7 +10,6 @@ The input and output resume format is given below :
   "intro": "",
   "phone": "",
   "mail": "",
-  "tools": [""],
   "education": [
     {{
       "institution": "",
@@ -28,10 +27,9 @@ The input and output resume format is given below :
       "name": "",
       "start_date": "",
       "end_date": "",
-      "location": "",
       "position": "",
-      "skills": [
-        ""
+      "desc":"",
+      "org":""
       ]
     }}
   ],
